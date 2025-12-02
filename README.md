@@ -3,7 +3,7 @@
 一款用 React Hooks 打造的旅遊打包清單工具，支援 新增、刪除、編輯、排序、勾選、全部勾選、進度條、localStorage、RWD。
 介面活潑、互動直覺，是非常適合作為作品集展示的小型前端應用程式。
 
-🔗 Live Demo https://travel-list-sheng.netlify.app/
+🔗 Live Demo https://jjps09981.github.io/travel-list/
 
 ## ✨ 功能 Features
 
